@@ -144,6 +144,8 @@ Feature requests and bug reports are welcome!
 
 ```shell
 $ pip install optuna-dashboard
+$ conda install -c conda-forge optuna-dashboard
+$ optuna-dashboard sqlite:///db.sqlite3
 ```
 
 > [!TIP]
